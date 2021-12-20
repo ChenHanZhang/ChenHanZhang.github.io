@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chenhanzhang.github.io</id>
-    <title>陈默</title>
-    <updated>2021-12-20T16:04:12.706Z</updated>
+    <title>辰默</title>
+    <updated>2021-12-20T16:05:06.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chenhanzhang.github.io"/>
     <link rel="self" href="https://chenhanzhang.github.io/atom.xml"/>
     <subtitle>Life isn&apos;t about finding yourself. It&apos;s about creating yourself.</subtitle>
     <logo>https://chenhanzhang.github.io/images/avatar.png</logo>
     <icon>https://chenhanzhang.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 陈默</rights>
+    <rights>All rights reserved 2021, 辰默</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://chenhanzhang.github.io/post/hello-gridea/</id>
